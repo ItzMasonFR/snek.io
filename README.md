@@ -4,7 +4,7 @@
 
 ## All rights reserved by Freezenova
 
-## All html rights reserved from Duckmath
+## All html code found from Duckmath
 
 ## Go support the original creator Freezenova
 
