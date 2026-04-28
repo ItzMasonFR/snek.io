@@ -1,6 +1,6 @@
 # snek.io
 
-## This was taken from the html code on duckmath
+## This was taken/stolen straight from the html code on duckmath
 
 ## All rights reserved by Freezenova
 
